@@ -2,7 +2,7 @@ import React from 'react';
 
 import './index.css'
 
-const Home = ( ) => {
+const Banner = ( ) => {
     return (
         <div className="banner">
             <p>Pesquisa de veículos do <span>TradersClub</span></p>
@@ -11,4 +11,4 @@ const Home = ( ) => {
 }
 
 
-export default Home
+export default Banner

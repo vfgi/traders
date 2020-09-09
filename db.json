@@ -1,0 +1,80 @@
+{
+  "cars": [
+    {
+      "title": "Celta Azul 2005 Ar e Direção",
+      "model": "Celta",
+      "brand": "Chevrolet",
+      "year": "2010",
+      "color": "Azul marinho",
+      "km": 106041,
+      "price": 1400000,
+      "id": 1
+    },
+    {
+      "id": 2,
+      "title": "Celta Preto 2003",
+      "model": "Celta",
+      "brand": "Chevrolet",
+      "year": 2005,
+      "color": "Preta",
+      "km": 209022,
+      "price": 8762.22
+    },
+    {
+      "title": "Monza 2001 Ar e Direção",
+      "model": "Monza",
+      "brand": "Chevrolet",
+      "year": "2001",
+      "color": "Preto",
+      "km": 189000,
+      "price": 1200000,
+      "id": 3
+    },
+    {
+      "title": "Outlander 2011 teto solar DH AR",
+      "model": "Outlander",
+      "brand": "Mitsubishi",
+      "year": "2011",
+      "color": "Branco",
+      "km": 119822,
+      "price": 5000034,
+      "id": 4
+    },
+    {
+      "title": "Uno Hatch 2011 AR DH",
+      "model": "Uno",
+      "brand": "FIAT",
+      "year": "2012",
+      "color": "Verde",
+      "km": 110000,
+      "price": 2200000,
+      "id": 5
+    }
+  ],
+  "brands": [
+    {
+      "id": 1,
+      "name": "VW"
+    },
+    {
+      "id": 2,
+      "name": "Chevrolet"
+    },
+    {
+      "id": 3,
+      "name": "FIAT"
+    },
+    {
+      "id": 4,
+      "name": "Ford"
+    },
+    {
+      "id": 5,
+      "name": "Nissan"
+    },
+    {
+      "id": 6,
+      "name": "Mitsubishi"
+    }
+  ]
+}

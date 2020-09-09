@@ -11,9 +11,10 @@
     width: 70%;
     text-align: end;
     font-family: 'Lobster Two', cursive;
-    font-size: 90px;
+    font-size: 6.5vw;
 }
 
 .banner p span {
     background-color: #2d4769;
+    padding: 0px 40px 0px 40px;
 }

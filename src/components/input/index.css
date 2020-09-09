@@ -1,0 +1,42 @@
+input {
+    outline: none;
+    background-color: transparent;
+    width: 100%;
+    border: none;
+    border-bottom: 1px solid #fff;
+    font-weight: 500;
+    font-size: 16px;
+    color: #fff;
+    height: 40px;
+}
+
+input::placeholder{
+    color: #fff;
+}
+
+.top{
+    width: 60%;
+    margin-left: 20%;
+    margin-right: 30px;
+    outline: none;
+    border: 1px solid #5a6069;
+    border-radius: 5px;
+    color: #f5f5f5;
+}
+
+.top::placeholder{
+    color: #5a6069;
+}
+
+.submit{
+    width: 120px;
+    height: 40px;
+    outline: none;
+    color: #1f2d40;
+    background-color: #f5f5f5;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: 500;
+    font-size: 16px;
+}

@@ -1,0 +1,36 @@
+.listContent{
+    cursor: pointer;
+    padding: 0 40px 0 40px;
+    display: grid;
+    grid-template-columns: 1fr 20%;
+    grid-template-rows: 1fr 1fr;
+    border-bottom: 1px solid #fff;
+    width: 80%;
+}
+
+.listContent:hover {
+    cursor: pointer;
+    background-color: rgba(255,255,255, 0.2);
+    transition: all 0.4s ease;
+}
+
+
+.listContent span{
+    font-weight: 600;
+    align-self: flex-end;
+    font-size: 26px;
+    padding-bottom: 5px;
+}
+
+.listContent p{
+    margin-top: 0;
+    font-size: 18px;
+    padding-bottom: 10px;
+}
+
+.left{
+    text-align: end;
+}
+
+
+
